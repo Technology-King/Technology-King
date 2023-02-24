@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Technology-King
-- 👀 I’m interested in making multipurpose Discord Bot
+- 👀 I’m interested in making Multipurpose Discord Bot along with its Dashboard
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on multipurpose Discord Bot
+- 💞️ I’m looking to collaborate on Multipurpose Discord Bot along with its Dashboard
 - 📫 How to reach me ... Contact me in Discord - Technology King#6107. Send Friend Request.
 
 <!---
